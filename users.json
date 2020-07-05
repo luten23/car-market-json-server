@@ -1,16 +1,1 @@
-{
-  "users": [
-    {
-      "id": 1,
-      "name": "bruno",
-      "email": "bruno@email.com",
-      "password": "bruno"
-    },
-    {
-      "id": 2,
-      "name": "nilson",
-      "email": "nilson@email.com",
-      "password": "nilsonnilson"
-    }
-  ]
-}
+{"users":[{"id":1,"name":"bruno","email":"bruno@email.com","password":"bruno"},{"id":2,"name":"nilson","email":"nilson@email.com","password":"nilsonnilson"},{"id":3,"email":"nilsondd@email.com","password":"qwertyuiop","name":"vitae velitt","lastname":"fff"},{"id":4,"email":"nilsonaa@email.com","password":"qwertyuiop","name":"efe","lastname":"qwq"},{"id":5,"email":"nilsonqw@email.com","password":"1234567890","name":"xxxxxxxxxxxxx","lastname":"fff"},{"id":6,"email":"nilsonlll@email.com","password":"789456123","name":"vitae velitt","lastname":"fff"},{"id":7,"email":"nilewfson@email.com","password":"1234567890","name":"xxxxxxxxxxxxx","lastname":"fff"},{"id":8,"email":"nilson3213@email.com","password":"qwertyuiop","name":"vitae velitt","lastname":"fff"},{"id":9,"email":"nildfasbbson@email.com","password":"1234567890","name":"vitae velitt","lastname":"fff"}]}
